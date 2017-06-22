@@ -1,0 +1,15 @@
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.g.resources
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\bin\Debug\ControlTemplateBrower.exe
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\bin\Debug\ControlTemplateBrower.pdb
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.exe
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower.pdb
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\App.baml
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Debug\ControlTemplateBrower_MarkupCompile.lref
