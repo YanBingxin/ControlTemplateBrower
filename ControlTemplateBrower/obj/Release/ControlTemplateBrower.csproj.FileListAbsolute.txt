@@ -12,3 +12,5 @@ d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBr
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\ControlTemplateBrower.csproj.GenerateResource.Cache
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\ControlTemplateBrower.exe
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\ControlTemplateBrower.pdb
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\WindowTest.baml
+d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\WindowTest.g.cs

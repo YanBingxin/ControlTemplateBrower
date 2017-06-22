@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 using System.Xml;
 using System.Windows.Markup;
 using System.Windows.Annotations;
+using System.IO;
 
 namespace ControlTemplateBrower
 {
@@ -90,14 +91,49 @@ namespace ControlTemplateBrower
                 txtTemplate.Text = sb.ToString();
 
                 grid.Children.Remove(control);
-
-
             }
             catch (Exception ex)
             {
-
                 txtTemplate.Text = "<<Error generationg template:" + ex.Message + ">>";
             }
+        }
+
+        protected ControlTemplate GetEditingTemplate()
+        {
+            try
+            {
+                StringReader stringReader = new StringReader(txtTemplate.Text);
+                XmlReader xmlReader = XmlReader.Create(stringReader);
+                return (ControlTemplate)XamlReader.Load(xmlReader);
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                Type type = (Type)lstTypes.SelectedItem;
+
+                ConstructorInfo info = type.GetConstructor(System.Type.EmptyTypes);
+                Control control = (Control)info.Invoke(null);
+                control.Width = 200;
+                control.Height = 200;
+                control.VerticalAlignment = VerticalAlignment.Center;
+                control.HorizontalAlignment = HorizontalAlignment.Center;
+                WindowTest win = new WindowTest();
+                win.gd.Children.Add(control);
+                control.Template = GetEditingTemplate();
+                win.ShowDialog();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
         }
     }
 }
