@@ -14,3 +14,5 @@ d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBr
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\ControlTemplateBrower.pdb
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\WindowTest.baml
 d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\WindowTest.g.cs
+D:\Documents\Visual Studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\bin\Release\ControlTemplateBrower.exe.CodeAnalysisLog.xml
+D:\Documents\Visual Studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\bin\Release\ControlTemplateBrower.exe.lastcodeanalysissucceeded

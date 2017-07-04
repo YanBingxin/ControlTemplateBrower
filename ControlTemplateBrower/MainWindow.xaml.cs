@@ -73,7 +73,6 @@ namespace ControlTemplateBrower
                 }
                 else if (type.Name == "StickyNoteControl")
                 {
-                    //AnnotationService.CreateTextStickyNoteCommand.Execute("xxx",txtTemplate);
                 }
                 else
                 {

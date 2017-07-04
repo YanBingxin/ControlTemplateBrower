@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\
+D:\Documents\Visual Studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\obj\Release\
 ControlTemplateBrower
 none
 false
-TRACE
-d:\documents\visual studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\App.xaml
+CODE_ANALYSIS;TRACE
+D:\Documents\Visual Studio 2013\Projects\ControlTemplateBrower\ControlTemplateBrower\App.xaml
 2-1084173307
 
 7363363598
